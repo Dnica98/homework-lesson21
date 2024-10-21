@@ -41,16 +41,6 @@
 
 // const arr =[1,3,5,4,4,2,6,1,8,7,6,4,3]
 
-
-// function eliminaRepetari(list){
-//     return list.filter((item,index)=>{
-//         return list.indexOf(item) === index;
-//     });
-
-// }
-
-// console.log(eliminaRepetari(arr))
-
 // const arr =[1,3,5,4,4,2,6,1,8,7,6,4,3]
 // const arr1 =[1,2,3,4,5,6,7,8,9,10,11,12,13]
 
